@@ -1,0 +1,11 @@
+commit 05e1cab56c0a6dba71ffee279d316c4f6c6e4b13
+Author: Katerina Golcevska <golcevska.katerina@yahoo.com>
+Date:   Thu Mar 21 09:58:23 2019 +0100
+
+    modify l1.txt
+
+commit 1a9aaff9acd86290f36cbf5ee503a3b820f01467
+Author: Katerina Golcevska <golcevska.katerina@yahoo.com>
+Date:   Thu Mar 21 09:51:34 2019 +0100
+
+    Initial commit
